@@ -1,8 +1,6 @@
 # Covid_guidelines_monitoring-system
 PROBLEM STATEMENT – As there is no vaccine available for Corona virus yet, the best way to control the spread is  by maintaining social distance and wearing mask. This project will use live CCTV footage to detect social distancing and will use audio device to instruct people to maintain social distancing and to put on mask. Also, it will detect coughing and sneezing from CCTV footage.
 
-Covid_guidelines_monitoring-system
-
 
 for social distancing run file
 People_tracker_yolo.py
