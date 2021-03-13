@@ -24,7 +24,7 @@ for color detection refer colour.ipynb
 
 
 
-Model performance
+# Model performance
 
 for colour - 93% accuracy
 
@@ -34,7 +34,7 @@ for mask - 99% accuracy
 
 
 
-Dataset - 
+# Dataset - 
 
 for colour - we scrapped around 5000 images for 13 different color
 
@@ -45,7 +45,7 @@ for mask - https://github.com/prajnasb/observations/tree/master/experiements/dat
 
 
 
-reference - 
+# reference - 
 
 eMaster Class Academy (https://www.youtube.com/channel/UCtfTf1nNJQ4PbUDqj-Q48rw)
 
@@ -53,7 +53,7 @@ Adrian Rosebrock (https://www.pyimagesearch.com/)
 
 
 
-Team member
+# Team member
 
 Deepak Yadav
 
