@@ -49,7 +49,7 @@ for mask - https://github.com/prajnasb/observations/tree/master/experiements/dat
 
 # reference - 
 
-eMaster Class Academy (https://www.youtube.com/channel/UCtfTf1nNJQ4PbUDqj-Q48rw)
+eMaster Class Academy (https://www.youtube.com/channel/UCtfTf1nNJQ4PbUDqj-Q48rw) refer this link to download yolo weights
 
 Adrian Rosebrock (https://www.pyimagesearch.com/)
 
