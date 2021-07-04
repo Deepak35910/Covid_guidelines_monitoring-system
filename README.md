@@ -38,16 +38,16 @@ for mask - 99% accuracy
 
 # Dataset - 
 
-for colour - we scrapped around 5000 images for 13 different color
+Cloth colour - we scrapped around 5000 images for 13 different color
 
-for cough-sneezing - https://web.bii.a-star.edu.sg/~chengli/FluRecognition.htm
+Cough-Sneezing - https://web.bii.a-star.edu.sg/~chengli/FluRecognition.htm
 
-for mask - https://github.com/prajnasb/observations/tree/master/experiements/data
+Mask - https://github.com/prajnasb/observations/tree/master/experiements/data
 (we got more data from different sources)
 
 
 
-# reference - 
+# Reference - 
 
 eMaster Class Academy (https://www.youtube.com/channel/UCtfTf1nNJQ4PbUDqj-Q48rw) refer this link to download yolo weights
 
